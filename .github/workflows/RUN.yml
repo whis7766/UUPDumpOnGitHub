@@ -1,0 +1,48 @@
+name: RUN
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        ref: 'uupmodified'
+        path: 'uuprun'
+    - name: Building Windows Image
+      working-directory: ./uuprun
+      shell: cmd
+      run: |
+        .\uup_download_windows.cmd && ren *.ISO output.iso
+    - uses: actions/checkout@v4
+      with:
+        ref: 'main'
+        path: 'uploader'
+    - uses: actions/setup-python@v5
+      with:
+        python-version: "3.12"
+        cache: 'pip'
+        cache-dependency-path: 'uploader/requirements.txt'
+    - working-directory: ./uploader
+      run: |
+        pip install -r requirements.txt --require-hashes --only-binary=:all:
+    - name: Upload to pcloud
+      shell: pwsh
+      working-directory: ./uploader
+      env:
+        PCLOUD_USERNAME: ${{ secrets.PCLOUD_USERNAME }}
+        PCLOUD_PASSWORD: ${{ secrets.PCLOUD_PASSWORD }}
+        HOME: ${{ runner.temp }}
+        PYTHONIOENCODING: utf-8
+      run: python ./uploadPcloud.py
+    - uses: Mattraks/delete-workflow-runs@v2.1.0
+      if: always()
+      with:
+        token: ${{ github.token }}
+        repository: ${{ github.repository }}
+        retain_days: 0
+        keep_minimum_runs: 0

@@ -1,0 +1,8 @@
+*
+!.gitignore
+
+!requirements.txt
+!uploadpcloud.py
+
+!.github/
+!.github/**
