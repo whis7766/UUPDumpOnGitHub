@@ -1,0 +1,43 @@
+{dy}
+  out=30da46b4-2ff2-4682-a9ae-23b66dd98713.AggregatedMetadata.cab
+  checksum=sha-1=b56bef7213f204563d5c03114fbcb418b77daf7d
+
+{dy}
+  out=OpenSSH-Client-Package-amd64.cab
+  checksum=sha-1=5b9a45036782840cc4359985cf48e6ec39aa43ab
+
+{dy}
+  out=DesktopDeployment.cab
+  checksum=sha-1=5a16c115d238b833958251ed7d3ced410de5a437
+
+{dy}
+  out=Microsoft-Windows-Server-LanguagePack-Package-amd64-zh-CN.esd
+  checksum=sha-1=8e244acb477d5bcbd9f7b178737161048b530d9f
+
+{dy}
+  out=Microsoft-Windows-LanguageFeatures-Basic-zh-cn-Package-amd64.cab
+  checksum=sha-1=816620402dc30e8098e273ef4f48cac3c5296afe
+
+{dy}
+  out=ServerDatacenter_zh-cn.esd
+  checksum=sha-1=1e92003f07dcdfacc9fd5a095189d17cdd8e081d
+
+https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d8b7f92b-bd35-4b4c-96e5-46ce984b31e0/public/windows11.0-kb5043080-x64_953449672073f8fb99badb4cc6d5d7849b9c83e8.msu
+  out=windows11.0-kb5043080-x64_953449672073f8fb99badb4cc6d5d7849b9c83e8.msu
+  checksum=sha-1=953449672073f8fb99badb4cc6d5d7849b9c83e8
+
+https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/40c739e2-585a-4dce-bc12-1abb5f316301/public/windows11.0-kb5078740-x64_f569920344bf45a6c3eb619375a8066110d51ba9.msu
+  out=windows11.0-kb5078740-x64_f569920344bf45a6c3eb619375a8066110d51ba9.msu
+  checksum=sha-1=f569920344bf45a6c3eb619375a8066110d51ba9
+
+https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/93ad5b40-17fe-459f-8b6d-a7e813ad9c72/public/windows11.0-kb5074831-x64-ndp481_485896c1de7b932dc51a4064b39f3cfdae2b5473.msu
+  out=windows11.0-kb5074831-x64-ndp481_485896c1de7b932dc51a4064b39f3cfdae2b5473.msu
+  checksum=sha-1=485896c1de7b932dc51a4064b39f3cfdae2b5473
+
+https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3911cf8c-1f40-465b-9cd8-c79d2030b8d0/public/windows11.0-kb5068516-x64_52337d6ab0d11b474dfafe1b14155d4a63ac2a8a.cab
+  out=windows11.0-kb5068516-x64_52337d6ab0d11b474dfafe1b14155d4a63ac2a8a.cab
+  checksum=sha-1=52337d6ab0d11b474dfafe1b14155d4a63ac2a8a
+
+https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ed9e6845-e314-4ff1-9a91-43f2898029e8/public/windows11.0-kb5078794-x64_26a977a9689c6a43da8891ca67ec620ed5c6e8e2.cab
+  out=windows11.0-kb5078794-x64_26a977a9689c6a43da8891ca67ec620ed5c6e8e2.cab
+  checksum=sha-1=26a977a9689c6a43da8891ca67ec620ed5c6e8e2
