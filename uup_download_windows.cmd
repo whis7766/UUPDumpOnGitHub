@@ -43,7 +43,7 @@ if NOT EXIST CustomAppsList.txt goto :NO_FILE_ERROR
 
 :DOWNLOAD_APPS
 echo Retrieving aria2 script for Microsoft Store Apps...
-"%aria2%" --no-conf --async-dns=false --console-log-level=warn --log-level=info --log="aria2_download.log" -o"%aria2Script_dy%" --allow-overwrite=true --auto-file-renaming=false "https://uupdump.net/get.php?id=30da46b4-2ff2-4682-a9ae-23b66dd98713&pack=zh-cn&edition=serverdatacenter&aria2=2"
+"%aria2%" --no-conf --async-dns=false --console-log-level=warn --log-level=info --log="aria2_download.log" -o"%aria2Script_dy%" --allow-overwrite=true --auto-file-renaming=false "https://uupdump.net/get.php?id=c780bdf0-6cc5-467f-9974-7d5bb2d7d69b&pack=zh-cn&edition=serverdatacenter&aria2=2"
 if %ERRORLEVEL% GTR 0 call :DOWNLOAD_ERROR & exit /b 1
 echo.
 
