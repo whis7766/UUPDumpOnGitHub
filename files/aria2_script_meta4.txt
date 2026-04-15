@@ -1,43 +1,224 @@
 {dy}
-  out=30da46b4-2ff2-4682-a9ae-23b66dd98713.AggregatedMetadata.cab
-  checksum=sha-1=b56bef7213f204563d5c03114fbcb418b77daf7d
+  out=Microsoft-Windows-SimpleTCP-FOD-Package-amd64.cab
+  checksum=sha-1=b5fa0022d95480ec56c05be80bfcfaeb4db38f37
+
+{dy}
+  out=Microsoft-Windows-TFTP-Client-FOD-Package-amd64.cab
+  checksum=sha-1=8c0b685063dcfc777f8f89282161bc58479a7f79
+
+{dy}
+  out=Downlevel-NLS-Sorting-Versions-Server-FoD-Package-wow64.cab
+  checksum=sha-1=cd433d1540d8fb926d6f3cafcc64f0e5be3a15f0
+
+{dy}
+  out=Microsoft-Windows-EnterpriseClientSync-Host-FOD-Package-wow64.cab
+  checksum=sha-1=11fd8c564b1c30d56e3412be690be5f729438a3f
+
+{dy}
+  out=Microsoft-Windows-ServerCoreFonts-NonCritical-Fonts-MinConsoleFonts-FOD-Package-amd64.cab
+  checksum=sha-1=435ab54223011271b1420dddf3c5626e27aa8562
+
+{dy}
+  out=Microsoft-Windows-Telnet-Client-FOD-Package-amd64.cab
+  checksum=sha-1=aa2e3f84f5ed166340ffb7321cb47fe16b647280
+
+{dy}
+  out=Microsoft-Windows-SmbDirect-FOD-Package-amd64.cab
+  checksum=sha-1=dc12cb24f855a789abf6d670cbea8c12d9475e3f
+
+{dy}
+  out=Microsoft-Windows-WinOcr-FOD-Package-wow64.cab
+  checksum=sha-1=36320ee8317824a3510a86e6a5c8a65da289ec48
+
+{dy}
+  out=Microsoft-Windows-PowerShell-ISE-FOD-Package-wow64.cab
+  checksum=sha-1=9fad57a164de7c312448538c95bb71702ebc3a53
+
+{dy}
+  out=Microsoft-Windows-WinOcr-FOD-Package-amd64.cab
+  checksum=sha-1=4ff99aaca0acc878638ba5aa046ab5b506f61eef
+
+{dy}
+  out=Microsoft-Windows-StepsRecorder-Package-wow64.cab
+  checksum=sha-1=76baeaf210169a209845823a3947facbc7b66aed
+
+{dy}
+  out=Microsoft-Windows-ProjFS-OptionalFeature-FOD-Package-amd64.cab
+  checksum=sha-1=6fbd57efa615f0e096b8923b84c1fc5b59474322
+
+{dy}
+  out=Microsoft-Windows-Notepad-FoD-Package-wow64.cab
+  checksum=sha-1=e60331f054655247b6a9cf1f332655e6f53f8918
+
+{dy}
+  out=Microsoft-Windows-StepsRecorder-Package-amd64.cab
+  checksum=sha-1=22f91760c3fa42f382292cd51affb76ecabee90d
+
+{dy}
+  out=Microsoft-Windows-Notepad-FoD-Package-amd64.cab
+  checksum=sha-1=a4eed1e039cf45ccda0739ebf9544f7dfc0cdd01
+
+{dy}
+  out=Microsoft-Windows-VBSCRIPT-FoD-Package-wow64.cab
+  checksum=sha-1=2999b427b9511863db434ff5b0d04c2d2d902e2d
+
+{dy}
+  out=Microsoft-Windows-VBSCRIPT-FoD-Package-amd64.cab
+  checksum=sha-1=8698f75cb848791758647ab8f4714b31fa01aff5
+
+{dy}
+  out=Microsoft-Windows-MSPaint-FoD-Package-wow64.cab
+  checksum=sha-1=fbc4b085c31dcdbd37b0fa06a84885c25aca94ed
+
+{dy}
+  out=Microsoft-Windows-InternetExplorer-Optional-Package-amd64.cab
+  checksum=sha-1=a0b643553c867aea48678fcfb50e7d2d43660f8b
+
+{dy}
+  out=Microsoft-Windows-WMIC-FoD-Package-wow64.cab
+  checksum=sha-1=c069006af9dba6cb88ce45c2c8618f5b8489607a
+
+{dy}
+  out=Microsoft-Windows-WMIC-FoD-Package-amd64.cab
+  checksum=sha-1=36313b456b3bbef6e0c7b58ff26565620d87bd9c
+
+{dy}
+  out=Microsoft-Windows-SnippingTool-FoD-Package-amd64.cab
+  checksum=sha-1=38235c720fc29e141e33471a1ffe4ede21840ca6
+
+{dy}
+  out=Microsoft-Windows-ServerCoreFonts-NonCritical-Fonts-BitmapFonts-FOD-Package-amd64.cab
+  checksum=sha-1=62691cbcc678f1a1288e03b082f70f415869711b
+
+{dy}
+  out=Microsoft-OneCore-DirectX-Database-FOD-Package-amd64.cab
+  checksum=sha-1=5f1ce9c14062ce3dbe44355e34846f600cb2cf3d
+
+{dy}
+  out=Microsoft-Windows-Server-FoDMetadata-Package.cab
+  checksum=sha-1=842b1cbf441633e3b468ff53797e0cc819a5b9c0
+
+{dy}
+  out=Microsoft-Windows-ServerCoreFonts-NonCritical-Fonts-TrueType-FOD-Package-amd64.cab
+  checksum=sha-1=0e55d251bc21788ebc903e5c1aadd8f059cd3e9e
+
+{dy}
+  out=Microsoft-Windows-EnterpriseClientSync-Host-FOD-Package-amd64.cab
+  checksum=sha-1=7a8f4feb2b12c01dcdc86c0f972d0fc348c71b87
+
+{dy}
+  out=Microsoft-Windows-PowerShell-ISE-FOD-Package-amd64.cab
+  checksum=sha-1=06a40c6f0458e5978d4799cae6ac28727db86852
+
+{dy}
+  out=Microsoft-Server-AzureArcSetup-FoD-Package-amd64.cab
+  checksum=sha-1=bc6863fb57f2b2b78dab4f5c72ebd3db346366e6
+
+{dy}
+  out=Microsoft-Windows-MSPaint-FoD-Package-amd64.cab
+  checksum=sha-1=2ff9a39d2c87da8ca5c90287da8e3034ac2cbf1f
+
+{dy}
+  out=c780bdf0-6cc5-467f-9974-7d5bb2d7d69b.AggregatedMetadata.cab
+  checksum=sha-1=8b380bcb8ce56cccb453928ecb8aad87dd01533c
 
 {dy}
   out=OpenSSH-Client-Package-amd64.cab
   checksum=sha-1=5b9a45036782840cc4359985cf48e6ec39aa43ab
 
 {dy}
+  out=Microsoft-Windows-LanguageFeatures-OCR-zh-cn-Package-amd64.cab
+  checksum=sha-1=86ffed74d4058812fcf457bcdc43d7c93b65b883
+
+{dy}
+  out=Downlevel-NLS-Sorting-Versions-Server-FoD-Package-amd64.cab
+  checksum=sha-1=4e61da977e78e3cacd17cf175684c07f88869e57
+
+{dy}
+  out=OpenSSH-Server-Package-amd64.cab
+  checksum=sha-1=b270600b71dfff2dca10e71034423b9110e13502
+
+{dy}
+  out=Microsoft-Windows-Xps-Xps-Viewer-Opt-Package-amd64.cab
+  checksum=sha-1=8c24e5fc76a6ab8246f083ee6f7def0cf1d7bff4
+
+{dy}
+  out=Microsoft-Windows-ServerCoreFonts-NonCritical-Fonts-Support-FOD-Package-amd64.cab
+  checksum=sha-1=c1b26a07cf001f94c387939975390a37a6571646
+
+{dy}
+  out=Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package-amd64.cab
+  checksum=sha-1=9d6f0912250753744696ddac860189dabb0c69e8
+
+{dy}
+  out=Microsoft-Windows-MediaPlayer-Package-wow64.cab
+  checksum=sha-1=f8d47b5a7c1af3aee6086bb524614b1338959346
+
+{dy}
+  out=Microsoft-Windows-Kernel-LA57-FoD-Package-amd64.cab
+  checksum=sha-1=7cb6227c29e5c0b36051dd5c6f97a9927d65f477
+
+{dy}
+  out=Microsoft-Windows-TabletPCMath-Package-amd64.cab
+  checksum=sha-1=23eb742d0247514e682a449f71a5ec30434cbd16
+
+{dy}
   out=DesktopDeployment.cab
-  checksum=sha-1=5a16c115d238b833958251ed7d3ced410de5a437
+  checksum=sha-1=d72447e8b4e1d574bb7c5f54354be90c6a0455d3
+
+{dy}
+  out=Microsoft-Windows-MediaPlayer-Package-amd64.cab
+  checksum=sha-1=1813f1b75a98d5a4bea71b89bb8337791052d860
+
+{dy}
+  out=Microsoft-Windows-LanguageFeatures-Handwriting-zh-cn-Package-amd64.cab
+  checksum=sha-1=9750f0ac2e43a5faf7fcbe4a5b6c6a29b3d2975f
+
+{dy}
+  out=Windows11.0-KB5068546-x64.cab
+  checksum=sha-1=d28c984420f0beae77f559c83b2a6cba57e1ce51
 
 {dy}
   out=Microsoft-Windows-Server-LanguagePack-Package-amd64-zh-CN.esd
   checksum=sha-1=8e244acb477d5bcbd9f7b178737161048b530d9f
 
 {dy}
+  out=Microsoft-Windows-LanguageFeatures-Speech-zh-cn-Package-amd64.cab
+  checksum=sha-1=11dfaf2ed38de035e2f9a7a66dab31696bd6a11e
+
+{dy}
+  out=Microsoft-Windows-SenseClient-Fod-Package-amd64.cab
+  checksum=sha-1=46b06fec848a42656fbc0825aeb8a2364d41a1c1
+
+{dy}
   out=Microsoft-Windows-LanguageFeatures-Basic-zh-cn-Package-amd64.cab
   checksum=sha-1=816620402dc30e8098e273ef4f48cac3c5296afe
+
+{dy}
+  out=Microsoft-Windows-LanguageFeatures-TextToSpeech-zh-cn-Package-amd64.cab
+  checksum=sha-1=103d6db2eb439066a4635c6f4b4b9715569cf42a
+
+{dy}
+  out=Microsoft-Windows-ServerCoreFonts-NonCritical-Fonts-UAPFonts-FOD-Package-amd64.cab
+  checksum=sha-1=82a5d41e24d6a21715e36cc7e8722983c1277319
+
+{dy}
+  out=Windows11.0-KB5082237-x64.cab
+  checksum=sha-1=4c0d9b40d322e73fc01eeb5ff93c6c3e967945cf
+
+{dy}
+  out=Microsoft-Edge-WebView-FOD-Package-amd64.cab
+  checksum=sha-1=5c1606450519a7be2c7ef34cbac017623c78e0d2
+
+{dy}
+  out=Windows11.0-KB5043080-x64.msu
+  checksum=sha-1=953449672073f8fb99badb4cc6d5d7849b9c83e8
+
+{dy}
+  out=Windows11.0-KB5082063-x64.msu
+  checksum=sha-1=2fb0b6b3988432626f68c231d154c35362ff58ea
 
 {dy}
   out=ServerDatacenter_zh-cn.esd
   checksum=sha-1=1e92003f07dcdfacc9fd5a095189d17cdd8e081d
 
-https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d8b7f92b-bd35-4b4c-96e5-46ce984b31e0/public/windows11.0-kb5043080-x64_953449672073f8fb99badb4cc6d5d7849b9c83e8.msu
-  out=windows11.0-kb5043080-x64_953449672073f8fb99badb4cc6d5d7849b9c83e8.msu
-  checksum=sha-1=953449672073f8fb99badb4cc6d5d7849b9c83e8
-
-https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/40c739e2-585a-4dce-bc12-1abb5f316301/public/windows11.0-kb5078740-x64_f569920344bf45a6c3eb619375a8066110d51ba9.msu
-  out=windows11.0-kb5078740-x64_f569920344bf45a6c3eb619375a8066110d51ba9.msu
-  checksum=sha-1=f569920344bf45a6c3eb619375a8066110d51ba9
-
-https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/93ad5b40-17fe-459f-8b6d-a7e813ad9c72/public/windows11.0-kb5074831-x64-ndp481_485896c1de7b932dc51a4064b39f3cfdae2b5473.msu
-  out=windows11.0-kb5074831-x64-ndp481_485896c1de7b932dc51a4064b39f3cfdae2b5473.msu
-  checksum=sha-1=485896c1de7b932dc51a4064b39f3cfdae2b5473
-
-https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3911cf8c-1f40-465b-9cd8-c79d2030b8d0/public/windows11.0-kb5068516-x64_52337d6ab0d11b474dfafe1b14155d4a63ac2a8a.cab
-  out=windows11.0-kb5068516-x64_52337d6ab0d11b474dfafe1b14155d4a63ac2a8a.cab
-  checksum=sha-1=52337d6ab0d11b474dfafe1b14155d4a63ac2a8a
-
-https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ed9e6845-e314-4ff1-9a91-43f2898029e8/public/windows11.0-kb5078794-x64_26a977a9689c6a43da8891ca67ec620ed5c6e8e2.cab
-  out=windows11.0-kb5078794-x64_26a977a9689c6a43da8891ca67ec620ed5c6e8e2.cab
-  checksum=sha-1=26a977a9689c6a43da8891ca67ec620ed5c6e8e2
