@@ -11,7 +11,7 @@
 ### Common Apps / Client editions all
 # Microsoft.WindowsStore_8wekyb3d8bbwe
 # Microsoft.StorePurchaseApp_8wekyb3d8bbwe
-# Microsoft.SecHealthUI_8wekyb3d8bbwe
+Microsoft.SecHealthUI_8wekyb3d8bbwe
 # Microsoft.DesktopAppInstaller_8wekyb3d8bbwe
 # Microsoft.Windows.Photos_8wekyb3d8bbwe
 # Microsoft.WindowsCamera_8wekyb3d8bbwe
