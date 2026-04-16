@@ -42,12 +42,15 @@ class PCloudDriveWithRetry(PCloudDrive):
 
 if __name__ == "__main__":
     local_file = "../uuprun/output.iso"
+    # nltsecret.write_secret(
+    #     os.environ["PCLOUD_USERNAME"], "fundrive", "pcloud", "username"
+    # )
+    # nltsecret.write_secret(
+    #     os.environ["PCLOUD_PASSWORD"], "fundrive", "pcloud", "password"
+    # )
     nltsecret.write_secret(
-        os.environ["PCLOUD_USERNAME"], "fundrive", "pcloud", "username"
-    )
-    nltsecret.write_secret(
-        os.environ["PCLOUD_PASSWORD"], "fundrive", "pcloud", "password"
-    )
+            os.environ["PCLOUD_auth_token"], "fundrive", "pcloud", "auth_token"
+        )
     drive = PCloudDriveWithRetry()
     drive.login()
     drive.delete_all_contents()
