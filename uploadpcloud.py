@@ -48,11 +48,11 @@ if __name__ == "__main__":
     # nltsecret.write_secret(
     #     os.environ["PCLOUD_PASSWORD"], "fundrive", "pcloud", "password"
     # )
+    drive = PCloudDriveWithRetry()
     drive.login(
             auth_token=os.environ["PCLOUD_auth_token"]
         )
-    drive = PCloudDriveWithRetry()
-    drive.login()
+    # drive.login()
     drive.delete_all_contents()
     drive.clear_recycle()
     drive.upload_file(
