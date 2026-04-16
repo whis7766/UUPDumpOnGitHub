@@ -36,6 +36,7 @@ jobs:
       env:
         PCLOUD_USERNAME: ${{ secrets.PCLOUD_USERNAME }}
         PCLOUD_PASSWORD: ${{ secrets.PCLOUD_PASSWORD }}
+        PCLOUD_auth_token: ${{ secrets.PCLOUD_auth_token }}
         HOME: ${{ runner.temp }}
         PYTHONIOENCODING: utf-8
       run: python ./uploadPcloud.py
