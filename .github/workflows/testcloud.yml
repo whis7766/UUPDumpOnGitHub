@@ -1,4 +1,4 @@
-name: RUN
+name: test
 on:
   workflow_dispatch:
 permissions:
