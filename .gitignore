@@ -1,0 +1,16 @@
+*
+!.gitignore
+
+!convert-UUP.cmd
+!ConvertConfig.ini
+!CustomAppsList.txt
+!Remove_Failure_MountDir_TempDir.cmd
+!uup_download_windows.cmd
+!slim_iso.cmd
+!slim_config.ini
+!bin
+!bin/**
+!files
+!files/**
+!UUPs
+!UUPs/**
