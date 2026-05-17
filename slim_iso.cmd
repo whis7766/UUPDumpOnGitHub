@@ -43,6 +43,6 @@ dism /image:"%MOUNT%" /cleanup-image /startcomponentcleanup /resetbase
 dism /unmount-image /mountDir:"%MOUNT%" /commit
 )
 
-bin\cdimage.exe -b"%UNZIP%\boot\etfsboot.com" -u2 -h -m -lWIN_SLIM "%UNZIP%" "%OUT%"
+bin\cdimage.exe -bootdata:1#pEF,e,b"%UNZIP%\efi\Microsoft\boot\efisys.bin" -m -u2 "%UNZIP%" "!DVDISO!.iso"
 rd/s/q "%UNZIP%" "%MOUNT%"
 :EOF
