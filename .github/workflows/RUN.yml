@@ -16,7 +16,8 @@ jobs:
     - name: Building Windows Image
       working-directory: ./uuprun
       shell: cmd
-      run: cmd /c "call .\uup_download_windows.cmd && ren *.ISO uup.iso && call .\slim_iso.cmd"
+      # run: cmd /c "call .\uup_download_windows.cmd && ren *.ISO uup.iso && call .\slim_iso.cmd"
+      run: cmd /c "call .\uup_download_windows.cmd && ren *.ISO output.iso"
     - uses: actions/checkout@v4
       with:
         ref: 'main'
