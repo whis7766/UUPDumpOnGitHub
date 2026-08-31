@@ -1,135 +1,180 @@
-{dy}  out=Microsoft-Windows-Foundation-Package.ESD
+{dy}
+  out=Microsoft-Windows-Foundation-Package.ESD
   checksum=sha-1=7876ed369953ae059421d081ff7fade971c9adea
 
-{dy}  out=Microsoft-Windows-Not-Supported-On-LTSB-Package.ESD
+{dy}
+  out=Microsoft-Windows-Not-Supported-On-LTSB-Package.ESD
   checksum=sha-1=4b829feaedb77f661e24338670f2c4c7305eb601
 
-{dy}  out=windows10.0-kb5015684-x64.cab
+{dy}
+  out=windows10.0-kb5015684-x64.cab
   checksum=sha-1=d2721bd1ef215f013063c416233e2343b93ab8c1
 
-{dy}  out=Microsoft-Windows-Notepad-FoD-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-Notepad-FoD-Package-amd64.cab
   checksum=sha-1=281d2fa7d9f4cb0d38a3965b2f02f6c7f30a02c8
 
-{dy}  out=Microsoft-Windows-EditionSpecific-Professional-WOW64-Package.ESD
+{dy}
+  out=Microsoft-Windows-EditionSpecific-Professional-WOW64-Package.ESD
   checksum=sha-1=b6d54fd84980d1dae8c3e3562ce1378647830f18
 
-{dy}  out=Microsoft-Windows-InternetExplorer-Optional-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-InternetExplorer-Optional-Package-amd64.cab
   checksum=sha-1=3a44e27ac7fa422e2e2b4e1b28478d4def16dd3b
 
-{dy}  out=Microsoft-Windows-StepsRecorder-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-StepsRecorder-Package-amd64.cab
   checksum=sha-1=079b54fee7e9e0efe2f8aeb376d3bba888c1eb97
 
-{dy}  out=Microsoft-Windows-QuickAssist-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-QuickAssist-Package-amd64.cab
   checksum=sha-1=3c2ffb0dee2611ff62c0325c4bac799e12d0cd02
 
-{dy}  out=Microsoft-Windows-Printing-PMCPPC-FoD-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-Printing-PMCPPC-FoD-Package-amd64.cab
   checksum=sha-1=f08e5cdee24d16712d3147251993e3489b490b4d
 
-{dy}  out=Microsoft-OneCore-DirectX-Database-FOD-Package-amd64.cab
+{dy}
+  out=Microsoft-OneCore-DirectX-Database-FOD-Package-amd64.cab
   checksum=sha-1=017ec2cf810d3a560c72fb9a71c204753f013a33
 
-{dy}  out=Microsoft-Windows-WordPad-FoD-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-WordPad-FoD-Package-amd64.cab
   checksum=sha-1=73f98a7e66a487309d0c8e699ca7761d060acc79
 
-{dy}  out=Microsoft-Windows-PowerShell-ISE-FOD-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-PowerShell-ISE-FOD-Package-amd64.cab
   checksum=sha-1=8da96965121b9ea5177e7cab5c774dfd191253b6
 
-{dy}  out=OpenSSH-Client-Package-amd64.cab
+{dy}
+  out=OpenSSH-Client-Package-amd64.cab
   checksum=sha-1=2854d6b285898ea72e6d7aaf2b3d1ebbc7f1f078
 
-{dy}  out=Microsoft-Windows-Required-ShellExperiences-Desktop-WOW64-Package.ESD
+{dy}
+  out=Microsoft-Windows-Required-ShellExperiences-Desktop-WOW64-Package.ESD
   checksum=sha-1=7308afe87c382f95d453305be52b701f687216d5
 
-{dy}  out=Microsoft-Windows-MSPaint-FoD-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-MSPaint-FoD-Package-amd64.cab
   checksum=sha-1=785ad6583ff7f898cc62fd41755d9930452b3527
 
-{dy}  out=Microsoft-Windows-LanguageFeatures-OCR-zh-cn-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-LanguageFeatures-OCR-zh-cn-Package-amd64.cab
   checksum=sha-1=297b86d3be9dfc7563c187f900484ff30c0daee1
 
-{dy}  out=Microsoft-Windows-Printing-WFS-FoD-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-Printing-WFS-FoD-Package-amd64.cab
   checksum=sha-1=7d1db7d400bb29988edfd3fdf368e1de89006414
 
-{dy}  out=Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package-amd64.cab
+{dy}
+  out=Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package-amd64.cab
   checksum=sha-1=daa92c0d936815001434f156ae784471db39072d
 
-{dy}  out=Microsoft-Windows-UserExperience-Desktop-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-UserExperience-Desktop-Package-amd64.cab
   checksum=sha-1=3ea6c17ac9df2b71ff65fd7010e3d4f784a93c79
 
-{dy}  out=Microsoft-Windows-TabletPCMath-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-TabletPCMath-Package-amd64.cab
   checksum=sha-1=107597c5c01c271d194e1286331b4c64d48ff764
 
-{dy}  out=Microsoft-Windows-Required-ShellExperiences-Desktop-Package.ESD
+{dy}
+  out=Microsoft-Windows-Required-ShellExperiences-Desktop-Package.ESD
   checksum=sha-1=42358493ad676134a8d5c6dafbb6396320fd6e59
 
-{dy}  out=Microsoft-Windows-EditionPack-Professional-WOW64-Package.ESD
+{dy}
+  out=Microsoft-Windows-EditionPack-Professional-WOW64-Package.ESD
   checksum=sha-1=c1ee9426a6a6cdc9330cf10c950d5a79c3f800cc
 
-{dy}  out=Microsoft-Windows-MediaPlayer-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-MediaPlayer-Package-amd64.cab
   checksum=sha-1=e1706f9da81ccc9ac4e60a0d2e5dcd5cabc8dc01
 
-{dy}  out=SSU-19041.7546-x64.cab
+{dy}
+  out=SSU-19041.7546-x64.cab
   checksum=sha-1=4dd2c028d03d03ba5fad9290161bb4e20437a5dd
 
-{dy}  out=Microsoft-Windows-EditionSpecific-Professional-Package.ESD
+{dy}
+  out=Microsoft-Windows-EditionSpecific-Professional-Package.ESD
   checksum=sha-1=0809047e677ec4df2cc198c5c413fed27d868d0b
 
-{dy}  out=Microsoft-Windows-RegulatedPackages-WOW64-Package.ESD
+{dy}
+  out=Microsoft-Windows-RegulatedPackages-WOW64-Package.ESD
   checksum=sha-1=07671c0a26f2b9fe84d0752250c2a2765f8070cf
 
-{dy}  out=Microsoft-Windows-Client-LanguagePack-Package_zh-cn-amd64-zh-cn.esd
+{dy}
+  out=Microsoft-Windows-Client-LanguagePack-Package_zh-cn-amd64-zh-cn.esd
   checksum=sha-1=454e324f4256ce0e1f2b315e41e64d9c05d8b721
 
-{dy}  out=Microsoft-Windows-Not-Supported-On-LTSB-WOW64-Package.ESD
+{dy}
+  out=Microsoft-Windows-Not-Supported-On-LTSB-WOW64-Package.ESD
   checksum=sha-1=30b871f75c42d655395c86f0e2cb6b9b6f5cd82d
 
-{dy}  out=Microsoft-Windows-LanguageFeatures-Handwriting-zh-cn-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-LanguageFeatures-Handwriting-zh-cn-Package-amd64.cab
   checksum=sha-1=ee043991a0521a1010b51d5f6390477a8ad1cf82
 
-{dy}  out=Microsoft-Windows-RegulatedPackages-Package.ESD
+{dy}
+  out=Microsoft-Windows-RegulatedPackages-Package.ESD
   checksum=sha-1=593aef7ab812e66e53a72758685c26ce71128242
 
-{dy}  out=Microsoft-Windows-Hello-Face-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-Hello-Face-Package-amd64.cab
   checksum=sha-1=14ae581f1523a57254d28e22e3341b9734b68296
 
-{dy}  out=Microsoft-Windows-LanguageFeatures-Speech-zh-cn-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-LanguageFeatures-Speech-zh-cn-Package-amd64.cab
   checksum=sha-1=ac98abbecdad084b7be6fceb9b38c5f0663986e9
 
-{dy}  out=Microsoft.ModernApps.Client.professional.esd
+{dy}
+  out=Microsoft.ModernApps.Client.professional.esd
   checksum=sha-1=8dbeedad51e23fcf0554be34b8052d31213013b2
 
-{dy}  out=Microsoft-Windows-LanguageFeatures-Basic-zh-cn-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-LanguageFeatures-Basic-zh-cn-Package-amd64.cab
   checksum=sha-1=408811ca4904fa0c9cde33420b451850c030a136
 
-{dy}  out=Microsoft-Windows-Hello-Face-Migration-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-Hello-Face-Migration-Package-amd64.cab
   checksum=sha-1=a6d01b854f74069b5fecaebb908242e29b66a6d3
 
-{dy}  out=Microsoft-Windows-LanguageFeatures-TextToSpeech-zh-cn-Package-amd64.cab
+{dy}
+  out=Microsoft-Windows-LanguageFeatures-TextToSpeech-zh-cn-Package-amd64.cab
   checksum=sha-1=f36ed6516df020de1bc672a5b3493e51dc81547c
 
-{dy}  out=Microsoft-Windows-Client-Features-WOW64-Package.ESD
+{dy}
+  out=Microsoft-Windows-Client-Features-WOW64-Package.ESD
   checksum=sha-1=421c7e9f5d41a022fa492dac1c9693018ba0dde8
 
-{dy}  out=Microsoft-Windows-EditionPack-Professional-Package.ESD
+{dy}
+  out=Microsoft-Windows-EditionPack-Professional-Package.ESD
   checksum=sha-1=f83212e4b76d67cbdcea90aa50a5ef872fc2dbe0
 
-{dy}  out=Microsoft-Windows-Client-Desktop-Required-WOW64-Package.ESD
+{dy}
+  out=Microsoft-Windows-Client-Desktop-Required-WOW64-Package.ESD
   checksum=sha-1=57f34d5f5523f044d759081e1c3b3486ad9037ff
 
-{dy}  out=Microsoft.ModernApps.ClientN.All.esd
+{dy}
+  out=Microsoft.ModernApps.ClientN.All.esd
   checksum=sha-1=167d941895015c7539c524f3f33b177e1314f1aa
 
-{dy}  out=Microsoft.ModernApps.Client.All.esd
+{dy}
+  out=Microsoft.ModernApps.Client.All.esd
   checksum=sha-1=b1af31e9e200a098c58040d6ab1290f9c95daaca
 
-{dy}  out=Microsoft-Windows-Client-Features-Package.ESD
+{dy}
+  out=Microsoft-Windows-Client-Features-Package.ESD
   checksum=sha-1=24296d84be7c75c0e080b165849fcfc4c3f2a18d
 
-{dy}  out=professional_zh-cn.esd
+{dy}
+  out=professional_zh-cn.esd
   checksum=sha-1=cb6a4400ef06afba4cfe41c92ccc48850fd5ebe4
 
-{dy}  out=Microsoft-Windows-Client-Desktop-Required-Package.ESD
+{dy}
+  out=Microsoft-Windows-Client-Desktop-Required-Package.ESD
   checksum=sha-1=69de5428eb421f04e17e9ace9d7faa1b10c6ab5c
 
-{dy}  out=Windows10.0-KB5120249-x64.cab
+{dy}
+  out=Windows10.0-KB5120249-x64.cab
   checksum=sha-1=ed4ecc0c402cdaf742258233882d34e0afd32918
 
